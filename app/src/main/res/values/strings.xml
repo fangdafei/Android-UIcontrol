@@ -1,0 +1,31 @@
+<resources>
+
+    <!--快捷键  option+enter-->
+
+    <!--RadioGroup文本-->
+    <string name="app_name">UIDemoControl</string>
+    <string name="text_title">您选择了</string>
+    <string name="text_1">单选</string>
+    <string name="text_2">冰箱</string>
+    <string name="test_3">彩电</string>
+
+    <!--checkbox文本-->
+    <string name="checktext1">多选</string>
+    <string name="checktext2">数学</string>
+    <string name="checktext3">英语</string>
+
+    <string name="checkBoxSelect">选中了</string>
+    <string name="disSelect">取消选中</string>
+
+    <!--textview-->
+    <string name="textview1">Hello World!</string>
+    <string name="ToastText">弹窗</string>
+
+    <!--SeekBar-->
+    <string name="seekBar1">当前进度：</string>
+    <string name="seekBar2">%</string>
+
+    <!--text-->
+    <string name="texts">aas发送到adsfafasdfsffaaa</string>
+
+</resources>
